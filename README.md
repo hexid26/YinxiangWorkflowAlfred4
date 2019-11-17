@@ -4,6 +4,10 @@ MacOS 上印象笔记的 Alfred4 workflow
 
 一般情况下，[**点此下载**](https://github.com/hexid26/YinxiangWorkflowAlfred4/raw/master/Yinxiang.alfredworkflow)
 
+```plain
+MD5sum : 2747f3667832ac5b52530f35e3787a07
+```
+
 ## 功能简览
 
 **●　搜索笔记**
