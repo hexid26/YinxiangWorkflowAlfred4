@@ -2,20 +2,26 @@
 
 MacOS 上印象笔记的 Alfred4 workflow
 
+一般情况下，[**点此下载**](https://github.com/hexid26/YinxiangWorkflowAlfred4/raw/master/Yinxiang.alfredworkflow)
+
 ## 功能简览
 
 **●　搜索笔记**
 
 - 通用检索 `ens` (匹配内容or标题)
+
 ![通用检索](./Pics/ens.png)
 
 - 标题检索 `ent` (匹配标题 only)
+
 ![标题检索](./Pics/ent.png)
 
 - 新建笔记 `enn` (再选择新建模式)
+
 ![新建笔记](./Pics/new.png)
 
 - 笔记追加 `⌘↩` (选择一条搜所出来的笔记再按快捷键)
+
 ![笔记追加](./Pics/append.png)
 
 - 显示帮助 `en?`
